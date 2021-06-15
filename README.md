@@ -19,7 +19,7 @@ I'm looking for an entry position to learn and gain professional experience. I w
 
 You can reach me at:
 mvqdev@gmail.com
-https://twitter.com/mvqdev1
+[https://twitter.com/mvqdev1](./assets/logos_twitter.svg)
 https://www.linkedin.com/in/miguel-vinga-da-quinta-73489620/
 
 ##
