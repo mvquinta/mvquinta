@@ -15,6 +15,7 @@ You can reach me at:
 mvqdev@gmail.com
 https://twitter.com/mvqdev1
 
+[![mvqdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mvquinta&hide=stars&show_icons=true&bg_color=2B2B2A&text_color=D1BDA9&title_color=B8654B&icon_color=8C543C&hide_border=true)](https://github.com/mvquinta)
 
 
 <!--
