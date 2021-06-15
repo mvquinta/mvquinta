@@ -2,7 +2,7 @@
 I'm Miguel Quinta, a front-end developer and a curious one about mobile.
 Former 3D Artist, I embraced a career change looking to fullfill both my personal and professional needs. Been running long side different technologies all my life. Now, as developer, I live among them.
 
-Being self-taught, I've been constantly learning over the past few months building, along the way, 1+Password (Android App) and 1+Pomodoro (Web App).
+Being self-taught, I've been constantly learning over the past few months building, along the way, [1+Pomodoro](https://onemorepomodoro.netlify.app/) (Web App) and [1+Password](https://play.google.com/store/apps/details?id=com.mvqdev.onemorepassword) (Android App).
 
 I'm currently working on my personal website but already with my eyes on my next personal project.
 
