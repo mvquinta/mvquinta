@@ -37,39 +37,3 @@ mvqdev@gmail.com
 <a href="https://github.com/mvquinta/mvquinta">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mvquinta&hide=stars&show_icons=true&bg_color=2B2B2A&text_color=D1BDA9&title_color=B8654B&icon_color=8C543C&hide_border=true" />
 </a>
-
-
-
-<!--
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2B2B2A)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvquinta&bg_color=2B2B2A&text_color=D1BDA9&title_color=B8654B&icon_color=8C543C&hide_border=true)
-
-<a href="https://github.com/mvquinta/1-pomodoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvquinta&hide=stars&show_icons=true&bg_color=2B2B2A&text_color=D1BDA9&title_color=B8654B&icon_color=8C543C&hide_border=true" />
-</a>
-<a href="https://github.com/mvquinta/OneMorePassword">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvquinta&bg_color=2B2B2A&text_color=D1BDA9&title_color=B8654B&icon_color=8C543C&hide_border=true" />
-</a>
-
-<a href="https://github.com/mvquinta/1-pomodoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvquinta&repo=1-pomodoro" />
-</a>
-<a href="https://github.com/mvquinta/OneMorePassword">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvquinta&repo=OneMorePassword" />
-</a>
--->
-
-<!--
-**mvquinta/mvquinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
