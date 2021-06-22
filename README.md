@@ -1,6 +1,6 @@
 ![mvqd-banner](./assets/mvqdev-banner.png)
 
-
+[mvqdev.com](https://www.mvqdev.com/)
 <img width="18" align='right' src="./assets/logos_github-icon.svg">
 <img width="18" align='right' src="./assets/logos_figma.svg">
 <img width="18" align='right' src="./assets/logos_android-icon.svg">
@@ -12,23 +12,24 @@
 
 ### Hi
 ✨ I'm Miguel Quinta, a front-end developer and a curious one about mobile.
-Former 3D Artist, I embraced a career change looking to full fill both my personal and professional needs. Been running alongside different technologies all my life. Now, as a developer, I live among them.
+Former 3D Artist, I embraced a career change looking to fulfill both my personal and professional needs. Been running alongside different technologies all my life. Now, as a developer, I live among them.
 
-Being self-taught, I've been constantly learning over the past few months building, along the way, [1+Pomodoro](https://onemorepomodoro.netlify.app/) (Web App) and [1+Password](https://play.google.com/store/apps/details?id=com.mvqdev.onemorepassword) (Android App).
+Being self-taught, I've been constantly practicing and, over the past few months, building along the way, [1+Pomodoro](https://onemorepomodoro.netlify.app/) (Web App) and [1+Password](https://play.google.com/store/apps/details?id=com.mvqdev.onemorepassword) (Android App).
 
 I'm looking for an entry position to learn and gain professional experience. I want to give the next step merging all the experience I gathered over several 3D productions and my eager to grow.
 
 ##
 
-🔭 I'm currently working on my personal website but already with my eyes on my next personal project.
+🔭 Starting to collaborate with and on others projects while preparing my next personal one. 
 
 🌱 Currently learning, well, everything! 
 Lately I've been working with React and everyday I learn and train more and more all my JavaScript, HTML and CSS knowledge and foundations.
 
 ##
 
-📫 Reach me at:
-mvqdev@gmail.com
+📫 Reach me at:<br>
+mvqdev@gmail.com<br>
+[Personal Website](https://www.mvqdev.com/)
 <a href="https://twitter.com/mvqdev1"><img width="25" align='right' src="./assets/logos_twitter.svg"></a>
 <a href="hhttps://www.linkedin.com/in/miguel-vinga-da-quinta-73489620/"><img width="25" align='right' src="./assets/logos_linkedin-icon.svg"></a>
 
