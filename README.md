@@ -22,8 +22,7 @@ I'm looking for an entry position to learn and gain professional experience. I w
 
 🔭 Starting to collaborate with and on others projects while preparing my next personal one. 
 
-🌱 Currently learning, well, everything! 
-Lately I've been working with React and everyday I learn and train more and more all my JavaScript, HTML and CSS knowledge and foundations.
+🌱 Currently learning, Next.js and Firebase
 
 ##
 
