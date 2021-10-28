@@ -22,7 +22,7 @@ I'm looking for an entry position to learn and gain professional experience. I w
 
 🔭 Starting to collaborate with and on others projects while preparing my next personal one. 
 
-🌱 Currently learning, Next.js and Firebase
+🌱 Currently learning, Typescript for React & Ionic
 
 ##
 
