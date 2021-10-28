@@ -14,13 +14,13 @@
 ✨ I'm Miguel Quinta, a front-end developer and a curious one about mobile.
 Former 3D Artist, I embraced a career change looking to fulfill both my personal and professional needs. Been running alongside different technologies all my life. Now, as a developer, I live among them.
 
-Being self-taught, I've been constantly practicing and, over the past few months, building along the way, [1+Pomodoro](https://onemorepomodoro.netlify.app/) (Web App) and [1+Password](https://play.google.com/store/apps/details?id=com.mvqdev.onemorepassword) (Android App).
+I'm currently working as a Frontend Developer developing with different tech stack. Growing everyday, I'm giving steady steps in merging all my new knowledge and experience into being a more solid developer.
 
-I'm looking for an entry position to learn and gain professional experience. I want to give the next step merging all the experience I gathered over several 3D productions and my eager to grow.
+Being self-taught, I've been constantly practicing and, over the past few months, building along the way, [1+Pomodoro](https://onemorepomodoro.netlify.app/) (Web App) and [1+Password](https://play.google.com/store/apps/details?id=com.mvqdev.onemorepassword) (Android App).
 
 ##
 
-🔭 Starting to collaborate with and on others projects while preparing my next personal one. 
+🔭 Developing a personal crossplatform app. 
 
 🌱 Currently learning, Typescript for React & Ionic
 
