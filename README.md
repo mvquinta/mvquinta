@@ -11,7 +11,7 @@
 <img width="18" align='right' src="./assets/logos_html-5.svg">
 
 ### Hi
-✨ I'm Miguel Quinta, a front-end developer and a curious one about mobile.
+✨ I'm Miguel Quinta, a Frontend Developer and a curious one about mobile.
 Former 3D Artist, I embraced a career change looking to fulfill both my personal and professional needs. Been running alongside different technologies all my life. Now, as a developer, I live among them.
 
 I'm currently working as a Frontend Developer developing with different tech stacks. Growing everyday, I'm giving steady steps in merging all my new knowledge and experience into being a more solid developer.
