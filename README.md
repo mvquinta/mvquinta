@@ -22,7 +22,7 @@ Being self-taught I am constantly practicing and, over the past few months, I've
 
 🔭 Developing a personal crossplatform app. 
 
-🌱 Currently learning, Typescript for React & Ionic
+🌱 Currently learning, Typescript for React /Next & Ionic
 
 ##
 
