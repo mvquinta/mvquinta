@@ -28,7 +28,8 @@ Being self-taught I am constantly practicing and, over the past few months, I've
 
 📫 Reach me at:<br>
 mvqdev@gmail.com<br>
-[Personal Website](https://www.mvqdev.com/)
+[Personal Website](https://www.mvqdev.com/)<br>
+[dev.to](https://dev.to/mvqdev)
 <a href="https://twitter.com/mvqdev1"><img width="25" align='right' src="./assets/logos_twitter.svg"></a>
 <a href="hhttps://www.linkedin.com/in/miguel-vinga-da-quinta-73489620/"><img width="25" align='right' src="./assets/logos_linkedin-icon.svg"></a>
 
