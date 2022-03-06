@@ -16,11 +16,9 @@ Former 3D Artist, I embraced a career change looking to fulfill both my personal
 
 I'm currently working as a Frontend Developer working with different tech stacks. Growing everyday, I'm giving steady steps in merging all my new knowledge and experience into being a more solid developer.
 
-Being self-taught I am constantly practicing and, over the past few months, I've built along the way, [1+Pomodoro](https://onemorepomodoro.netlify.app/) (Web App) and [1+Password](https://play.google.com/store/apps/details?id=com.mvqdev.onemorepassword) (Android App).
-
 ##
 
-🔭 Developing a personal crossplatform app. 
+🔭 Developing a personal web app project and aiming to be crossplatform in the future. 
 
 🌱 Currently learning Nextjs and Angular for personal and professioanl projects
 
