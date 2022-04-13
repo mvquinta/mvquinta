@@ -20,7 +20,7 @@ I'm currently working as a Frontend Developer working with different tech stacks
 
 🔭 Developing a personal web app project and aiming to be crossplatform in the future. 
 
-🌱 Currently learning Nextjs and Angular for personal and professioanl projects
+🌱 Currently learning Nextjs, Jest and Testing Library
 
 ##
 
