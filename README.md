@@ -18,7 +18,7 @@ I'm currently working as a Frontend Developer working with different tech stacks
 
 ##
 
-🔭 Developing a personal web app project and aiming to be crossplatform in the future. 
+🔭 Developing [embipi](https://www.embipi.com/), a personal web app project in an infinite development loop. Aiming to make it crossplatform in the future. 
 
 🌱 Currently learning Nextjs, Jest and Testing Library
 
