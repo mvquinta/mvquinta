@@ -32,7 +32,3 @@ mvqdev@gmail.com<br>
 <a href="hhttps://www.linkedin.com/in/miguel-vinga-da-quinta-73489620/"><img width="25" align='right' src="./assets/logos_linkedin-icon.svg"></a>
 
 ##
-
-<a href="https://github.com/mvquinta/mvquinta">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mvquinta&hide=stars&show_icons=true&bg_color=2B2B2A&text_color=D1BDA9&title_color=B8654B&icon_color=8C543C&hide_border=true" />
-</a>
