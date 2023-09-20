@@ -20,7 +20,7 @@ I'm currently working as a Frontend Developer working with different tech stacks
 
 🔭 Developing [embipi](https://www.embipi.com/), a personal web app project in an infinite development loop. Embipi MVP version is now published and open to public use.
 
-🌱 Currently leveling up my React and TypeScript skills
+🌱 Currently leveling up my React Native skills
 
 ##
 
