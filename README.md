@@ -19,7 +19,8 @@ I'm currently working as a Frontend Developer working with different tech stacks
 ##
 
 🔭 Developing [embipi](https://www.embipi.com/), a personal web app project in an infinite development loop. Embipi MVP version is now published and open to public use.
-🔭 Developing crossplaform mobile game.
+
+🔭 Developing crossplatform mobile game.
 
 🌱 Currently leveling up my Vue and Ionic skills.
 
