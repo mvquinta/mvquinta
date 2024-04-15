@@ -22,7 +22,7 @@ I'm currently working as a Frontend Developer working with different tech stacks
 
 🔭 Developing crossplatform mobile game.
 
-🌱 Currently leveling up my Vue and Ionic skills.
+🌱 Currently leveling up my skills: Vue, Ionic, TypeScript, Laravel, Php, Sql.
 
 ##
 
