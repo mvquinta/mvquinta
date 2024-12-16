@@ -18,11 +18,11 @@ I'm currently working as a Frontend Developer working with different tech stacks
 
 ##
 
-🔭 Developing [embipi](https://www.embipi.com/), a personal web app project in an infinite development loop. Embipi MVP version is now published and open to public use.
+🔭 Developing [embipi](https://www.embipi.com/), a personal project in an infinite development loop. Web version is currently down. Moving project to mobile/crossplatform using Expo
 
 🔭 Developing crossplatform mobile game.
 
-🌱 Currently leveling up my skills: Vue, Ionic, TypeScript, Laravel, Php, Sql.
+🌱 Currently leveling up my skills: Vue, Nuxt, TypeScript, React Native, Expo, Sql.
 
 ##
 
@@ -30,7 +30,6 @@ I'm currently working as a Frontend Developer working with different tech stacks
 mvqdev@gmail.com<br>
 [Personal Website](https://www.mvqdev.com/)<br>
 [dev.to](https://dev.to/mvqdev)
-<a href="https://twitter.com/mvqdev1"><img width="25" align='right' src="./assets/logos_twitter.svg"></a>
 <a href="hhttps://www.linkedin.com/in/miguel-vinga-da-quinta-73489620/"><img width="25" align='right' src="./assets/logos_linkedin-icon.svg"></a>
 
 ##
