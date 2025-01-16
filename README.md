@@ -18,7 +18,7 @@ I'm currently working as a Frontend Developer working with different tech stacks
 
 ##
 
-🔭 Developing [embipi](https://www.embipi.com/), a personal project in an infinite development loop. Web version is currently down. Moving project to mobile/crossplatform using Expo
+🔭 Developing personal projects in an infinite development loop. Exploring mobile/crossplatform projects using Expo
 
 🔭 Developing crossplatform mobile game.
 
